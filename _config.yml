@@ -17,7 +17,7 @@ slogan: 'Ensemble construisons votre jardin'
 description: "Chez Perspectives, le jardin est bien plus qu'un métier c'est une passion. Depuis ses origines, notre entreprise s'est spécialisée dans la conception, la réalisation et l'entretien de jardin ainsi que dans l'aménagement de terrasse."
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: ' '
 
 # Main author of the website
 # See > authors.yml
