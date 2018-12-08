@@ -15,6 +15,10 @@ gallery:
       caption: "Avant l'aménagement paysager"
     - image_url: amenagement-ap.jpg
       caption: "Après l'aménagement paysager"
+    - image_url: amenagement2.jpg
+      caption: "Jardin japonais"      
+    - image_url: plantes.jpg
+      caption: "Terrasse & plantation"      
 ---
 Particuliers, entreprises, collectivités, vous avez un projet d'aménagement (jardin, espace vert, patio…), nous sommes à vos cotés pour le réaliser.
 * Aménagement, création de votre jardin
