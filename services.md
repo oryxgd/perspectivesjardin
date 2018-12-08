@@ -11,8 +11,8 @@ image:
 permalink: /services.htm    
 ---
 En tant que professionels du paysage nous pouvons intervenir à tous les niveaux de votre projet de jardin :
-* Conception de votre aménagement et réalisation de votre Jardin
-* Entretien complet de votre jardin
+* Conception de votre [aménagement](/amenagement.htm) et réalisation de votre Jardin
+* [Entretien](/entretien.htm) complet de votre jardin
 * Vente, installation et entretien de plantes vertes
-* Installation de terrasses et autres menuiseries
-* Élagage de vos arbres
+* Installation de [terrasses](/terrasse.htm) et autres menuiseries
+* [Élagage](/elagage.htm) de vos arbres
