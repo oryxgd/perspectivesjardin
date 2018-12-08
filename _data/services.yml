@@ -2,24 +2,24 @@
 
 - name: "Aménagement"
   url: "/amenagement.htm"
-  title: "Subscribe to RSS Feed"
+  title: "Conception de votre aménagement et réalisation de votre Jardin"
 
 - name: "Entretien"
   url: "/entretien.htm"
-  title: "Subscribe to Atom Feed"
+  title: "Entretien complet de votre jardin"
 
 - name: "Plantes"
   url: "/plantes.htm"
-  title: "Sitemap for Google Webmaster Tools"
+  title: "Vente, installation et entretien de plantes vertes"
   
 - name: "Terrasses"
   url: "/terrasse.htm"
-  title: "Contact"
+  title: "Aménagement de terrasses et autres menuiseries"
 
 - name: "Elagage"
-  url: "/contact/"
-  title: "Contact"
+  url: "/elagage.htm"
+  title: "Élagage de vos arbres"
   
 - name: "Contact"
-  url: "/elagage.htm"
+  url: "/contact.htm"
   title: "Contact"
