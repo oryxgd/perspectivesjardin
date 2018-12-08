@@ -12,9 +12,9 @@ image:
 permalink: /amenagement.htm
 gallery:
     - image_url: amenagement-av.jpg
-    caption: "Avant l'aménagement paysager"
+      caption: "Avant l'aménagement paysager"
     - image_url: amenagement-ap.jpg
-    caption: "Après l'aménagement paysager"
+      caption: "Après l'aménagement paysager"
 ---
 Particuliers, entreprises, collectivités, vous avez un projet d'aménagement (jardin, espace vert, patio…), nous sommes à vos cotés pour le réaliser.
 * Aménagement, création de votre jardin
