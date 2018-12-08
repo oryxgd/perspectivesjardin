@@ -8,6 +8,7 @@ title:  "Elagage et Abattage"
 description: "Service d'élagage tous types d’arbres, abattage de vos arbres morts ou malades"
 image:
     title: elagage.jpg
+    alt: "Opération d'élagage"
 permalink: /elagage.htm    
 ---
 * Élagage tous types d’arbres
