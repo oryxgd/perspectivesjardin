@@ -5,6 +5,7 @@ image:
     title: img-accueil.jpg
 homepage: true
 ---
+## Bienvenue sur notre site
 Chez Perspectives, le jardin est bien plus qu'un métier c'est une passion. Depuis ses origines, notre entreprise s'est spécialisée dans la conception, la réalisation et l'entretien de jardin ainsi que dans l'aménagement de terrasse.
 Perspectives est composée d'une équipe de 3 paysagistes passionnés par leur métier:
 * 1 équipe de création
