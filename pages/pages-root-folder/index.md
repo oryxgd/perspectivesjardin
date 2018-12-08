@@ -1,5 +1,6 @@
 ---
 layout: page
+header: false
 permalink: /
 image:
     title: img-accueil.jpg
