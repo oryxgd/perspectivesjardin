@@ -1,5 +1,6 @@
 ---
 layout: page
+header: false
 title:  "Historique de Perspectives Jardin"
 description: "Fondée en juillet 1987, notre entreprise a connu une croissance soutenue."
 image:
