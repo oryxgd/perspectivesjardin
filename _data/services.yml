@@ -1,17 +1,25 @@
 - menu_name: "Services"
 
-- name: "Contact"
-  url: "/contact/"
-  title: "Contact"
-
-- name: "RSS"
-  url: "/feed.xml"
+- name: "Aménagement"
+  url: "/amenagement.htm"
   title: "Subscribe to RSS Feed"
 
-- name: "Atom"
-  url: "/atom.xml"
+- name: "Entretien"
+  url: "/entretien.htm"
   title: "Subscribe to Atom Feed"
 
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
+- name: "Plantes"
+  url: "/plantes.htm"
   title: "Sitemap for Google Webmaster Tools"
+  
+- name: "Terrasses"
+  url: "/terrasse.htm"
+  title: "Contact"
+
+- name: "Elagage"
+  url: "/contact/"
+  title: "Contact"
+  
+- name: "Contact"
+  url: "/elagage.htm"
+  title: "Contact"
