@@ -23,6 +23,7 @@ gallery:
       caption: "Orchidees"
     - image_url: cerisier.jpg
       caption: "Cerisier"
+redirect_from: "/plantes"
 ---
 Que ce soit d'intérieur ou d'extérieur, nous vous proposons des plantes en vente ou en location pour embellir le quotidien ou pour un événement partiulier (inauguration, mariage, anniversaire, naissance…).
 * Plantes d’intérieur : vivaces, fleurs, plantes exotiques, plantes carnivores, cactus…
