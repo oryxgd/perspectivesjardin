@@ -5,7 +5,7 @@ breadcrumb: true
 categories:
     - services
 title:  "Elagage et Abattage"
-description: "Service d'élagage tous types d’arbres, abattage de vos arbres morts ou malades"
+meta_description: "Service d'élagage tous types d’arbres, abattage de vos arbres morts ou malades"
 image:
     title: elagage.jpg
     alt: "Opération d'élagage"
